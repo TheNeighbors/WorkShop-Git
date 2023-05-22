@@ -1,5 +1,0 @@
-firstname: Nitiphum 
-lastname : Sumpunnang
-Email : nitiphum.2001s@gmail.com
-Fav Music : ลุงตู่อยู่ไหน
-Hobby : Play Game

@@ -1,5 +1,0 @@
-name:thatchaphol
-lastname:pornlikitchotiwong
-email:thatchaphol.po@ku.th
-Favorite Music: Light Switch
-Hobby: เล่นเกม ฟังเฟลง
