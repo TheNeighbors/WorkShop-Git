@@ -1,0 +1,5 @@
+name: นายวีรวฒน์
+lastname: สุราฤทธิ์
+Email: 63160100@go.buu.ac.th
+Favorite Music: doctor dance
+Hobby: play game, sleep
