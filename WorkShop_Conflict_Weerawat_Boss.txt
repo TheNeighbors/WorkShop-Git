@@ -3,3 +3,10 @@ lastname: สุราฤทธิ์
 Email: 63160100@go.buu.ac.th
 Favorite Music: doctor dance
 Hobby: play game, sleep
+
+Name:Phubet
+Lastname:Khomcharoen
+Nickname:Boss
+Email: 63160257@go.buu.ac.th
+Favorite Music : Wake up in the sky
+Hobby : Playing Basketball
