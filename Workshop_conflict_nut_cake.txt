@@ -3,3 +3,8 @@ Lastname: Samaksaman
 Email: 63160016@go.buu.ac.th
 Fav Music: You Got It
 Hobby: Listen to music
+Name : Piyatida
+Lastname : Numpon
+Email : its-piyatida_n@internal.softsquaregroup.com
+Favorite Music : Why Don't You Stay
+Hobby : Watch movie
