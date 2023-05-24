@@ -3,3 +3,9 @@ Lastname : Somsri
 Email : its-noppol_s@internal.softsquaregroup.com
 Favorite Music : My heart will go on
 Hobby : Play music
+----------------------------------------------
+Name : Thatchaphol
+Lastname : P.
+Email : thatchaphol.po@ku.th
+Favorite Music : Light Switch
+Hobby : Play Games
