@@ -8,4 +8,4 @@ Name : Thatchaphol
 Lastname : P.
 Email : thatchaphol.po@ku.th
 Favorite Music : Light Switch
-Hobby : Play Games
+Hobby : Play Game
