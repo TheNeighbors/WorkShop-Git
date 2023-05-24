@@ -3,3 +3,9 @@ lastname : Visithsri
 Email : peerapat.vi@ku.th
 Favorite Music : Love is gone
 Hobby : play a Game!! 
+
+name : Siwakorn	
+Lastname : Tilangkan	
+Email : Siwakorn.Ti@ku.th
+Favorite Music : papaya pokpok
+Hobby : Sleeps
