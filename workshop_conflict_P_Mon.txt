@@ -10,6 +10,6 @@ Hobby : play a Game!!
 name  : Siwakorn
 lastname :  Tilangkan
 Email : Siwakorn.ti@ku.th
-Favorite Music : papaya
+Favorite Music : papaya pok pok
 Hobby : Sleeps
 
