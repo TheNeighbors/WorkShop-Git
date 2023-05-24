@@ -2,14 +2,4 @@ name : Peerapat
 lastname : Visithsri
 Email : peerapat.vi@ku.th
 Favorite Music : Love is gone
-Hobby : play a Game!! 222222 and I'm gonna sleep
-
-
-
-
-name  : Siwakorn
-lastname :  Tilangkan
-Email : Siwakorn.ti@ku.th
-Favorite Music : papaya pok pok
-Hobby : Sleeps
-
+Hobby : play a Game!! 
